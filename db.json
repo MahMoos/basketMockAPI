@@ -1,16 +1,1170 @@
 {
-  "posts":[
+  "items": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "1",
+      "name": {
+        "en": "Polo T-Shirt",
+        "ar": "تيشيرت بولو"
+      },
+      "description": {
+        "en": "Trendyol Male Colar Jacquard Polo Collar T-Shirt Men 'S Clothing Fashion 2021 Summer Spring Male Top T-shirt",
+        "ar": "تريندول تيشرت بولو رجالي ذو ياخة وملمس حريري، أفضل الملابس الرجالية صيف ربيع ٢٠٢١"
+      },
+      "price": 11.3,
+      "reducedPrice": null,
+      "rating": 4.5,
+      "totalOrders": 183,
+      "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+      "images": [
+        "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/Sac6defc23d774f559542f4277126d3193/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/S8cedd3a2a72b4f92a04ee1ef440b2a12b/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_Q90.jpg_.webp",
+        "https://ae01.alicdn.com/kf/S276d3089e24946f393475dec876c1f31s/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpeg_Q90.jpeg_.webp",
+        "https://ae01.alicdn.com/kf/S83ec1d50b91142f799b5a002dffa85ceE/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpeg_Q90.jpeg_.webp"
+      ],
+      "isFavorite": true,
+      "variantSets": [
+        {
+          "id": "1",
+          "type": "color",
+          "name": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "variants": [
+            {
+              "id": "11",
+              "name": {
+                "en": "White",
+                "ar": "أبيض"
+              },
+              "label": "#FFFFFFFF"
+            },
+            {
+              "id": "12",
+              "name": {
+                "en": "Black",
+                "ar": "أسود"
+              },
+              "label": "0xFF000000"
+            },
+            {
+              "id": "13",
+              "name": {
+                "en": "Red",
+                "ar": "أحمر"
+              },
+              "label": "FFCC0000"
+            },
+            {
+              "id": "14",
+              "name": {
+                "en": "Blue",
+                "ar": "أزرق"
+              },
+              "label": "2986cc"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "type": "size",
+          "name": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "variants": [
+            {
+              "id": "21",
+              "name": {
+                "en": "Small",
+                "ar": "صغير"
+              },
+              "label": "S"
+            },
+            {
+              "id": "22",
+              "name": {
+                "en": "Medium",
+                "ar": "متوسط"
+              },
+              "label": "M"
+            },
+            {
+              "id": "23",
+              "name": {
+                "en": "Large",
+                "ar": "كبير"
+              },
+              "label": "L"
+            },
+            {
+              "id": "24",
+              "name": {
+                "en": "X-Large",
+                "ar": "كبير جدا"
+              },
+              "label": "XL"
+            }
+          ]
+        }
+      ],
+      "combinations" : [
+        {
+          "ids": ["12", "23"],
+          "price": 8.0,
+          "maxOrderQuantity": 34
+        },
+        {
+          "ids": ["13", "22"],
+          "price": 7.3,
+          "maxOrderQuantity": 97
+        },
+        {
+          "ids": ["14", "23"],
+          "price": 6.3,
+          "maxOrderQuantity": 44
+        },
+        {
+          "ids": ["11", "24"],
+          "price": 11.3,
+          "maxOrderQuantity": 13
+        },
+        {
+          "ids": ["13", "24"],
+          "price": 5.3,
+          "maxOrderQuantity": 76
+        },
+        {
+          "ids": ["14", "24"],
+          "price": 9.3,
+          "maxOrderQuantity": 43
+        },
+        {
+          "ids": ["14", "22"],
+          "price": 13.3,
+          "maxOrderQuantity": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": {
+        "en": "Chiffon Pantsuits",
+        "ar": "بنطلون شيفون"
+      },
+      "price": 21.3,
+      "reducedPrice": 19.0,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/He592143db0ae4a6f889806ba97bce9ffU.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "3",
+      "name": {
+        "en": "2PCS Pajama Short Sleeve Printed",
+        "ar": "بجامة مع تيشرت"
+      },
+      "price": 41.0,
+      "reducedPrice": null,
+      "rating": null,
+      "thumbnail": "https://ae04.alicdn.com/kf/H7212f9022c1c455f96f8428935d014dcf.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": true
+    },
+    {
+      "id": "4",
+      "name": {
+        "en": "Short sleeved trousers pajamas sets",
+        "ar": "سيت بجامة رجالي"
+      },
+      "price": 21.9,
+      "reducedPrice": null,
+      "rating": 1.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/HTB1FGHJtxuTBuNkHFNRq6A9qpXaT.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "5",
+      "name": {
+        "en": "Men Leather Trench Coat Casaco",
+        "ar": "قمصلة رجالية جلد"
+      },
+      "price": 23.3,
+      "reducedPrice": 22.5,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/Hcd991ce204264f3fbf1c5062d7944edcT.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "6",
+      "name": {
+        "en": "Mens Sneakers Shoes",
+        "ar": "حذاء رجالي سنيكر"
+      },
+      "price": 54.3,
+      "reducedPrice": 42.4,
+      "rating": 2.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/H2948b01a16a549c6afd01e65bdf7d4224.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": true
+    },
+    {
+      "id": "7",
+      "name": {
+        "en": "Vintage Pants Suits For Women",
+        "ar": "بدلة نسائية"
+      },
+      "price": 56.3,
+      "reducedPrice": null,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/Hafe95cb353c14981837a201035e6cedeG.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "8",
+      "name": {
+        "en": "Chinese Long Dress For Women",
+        "ar": "بدلة نسائية صينية"
+      },
+      "price": 52.3,
+      "reducedPrice": null,
+      "rating": 4.0,
+      "thumbnail": "https://ae04.alicdn.com/kf/H4b9d2bff3fc74de4a2a37c95d4c2a2b6j.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "9",
+      "name": {
+        "en": "Women dress",
+        "ar": "ثوب نسائي"
+      },
+      "price": 44.3,
+      "reducedPrice": null,
+      "rating": null,
+      "thumbnail": "https://ae01.alicdn.com/kf/H880fd07b8ddd4207a02e09130ae3da160.jpg_140x140Q90.jpg_.webp",
+      "isFavorite": true
+    },
+    {
+      "id": "10",
+      "name": {
+        "en": "Women skirt",
+        "ar": "تنورة نسائية"
+      },
+      "price": 51.3,
+      "reducedPrice": null,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/H70b61688871a40f0869258a166ac72edk.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "11",
+      "name": {
+        "en": "Men Blazer",
+        "ar": "سترة رجالية"
+      },
+      "price": 23.3,
+      "reducedPrice": 20.0,
+      "rating": 4.0,
+      "thumbnail": "https://ae04.alicdn.com/kf/Hd93a44059595412c9614ca89cd734e6cE.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "12",
+      "name": {
+        "en": "Hooded cardigan coat",
+        "ar": "سترة رجالية مع هود"
+      },
+      "price": 16.3,
+      "reducedPrice": null,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/H33a97421c1354e35821d2f9c9419a3848.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": true
+    },
+    {
+      "id": "13",
+      "name": {
+        "en": "Chinese Men Shirt",
+        "ar": "قميص رجالي صيني تقليدي"
+      },
+      "price": 16.3,
+      "reducedPrice": null,
+      "rating": 4.5,
+      "thumbnail": "https://ae04.alicdn.com/kf/HTB1y3ttzY1YBuNjSszeq6yblFXag.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "14",
+      "name": {
+        "en": "Men shirt with collar",
+        "ar": "بلوز رجالي مع ياخة"
+      },
+      "price": 10.3,
+      "reducedPrice": null,
+      "rating": null,
+      "thumbnail": "https://ae04.alicdn.com/kf/H4675f00d6f154454b26e5affcadb9898u.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": false
+    },
+    {
+      "id": "15",
+      "name": {
+        "en": "Hair Band",
+        "ar": "مشد شعر"
+      },
+      "price": 17.3,
+      "reducedPrice": 12.5,
+      "rating": 3.0,
+      "thumbnail": "https://ae04.alicdn.com/kf/H1d50fcb042f740748455063325e95aaaC.jpg_480x480.jpg_Q90.jpg_.webp",
+      "isFavorite": true
     }
   ],
-  "comments" : [
+  "orders": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "00000000001",
+      "date": 1486252500000,
+      "total": 154.0,
+      "status": "confirmed",
+      "items": [
+        {
+          "productId": "1",
+          "name": {
+            "en": "Polo T-Shirt",
+            "ar": "تيشيرت بولو"
+          },
+          "quantity": 2,
+          "totalPrice": 14.6,
+          "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+          "selectedCombination": [
+            {
+              "id": "13",
+              "variantSetName": {
+                "en": "Color",
+                "ar": "اللون"
+              },
+              "selection": {
+                "en": "White",
+                "ar": "أبيض"
+              }
+            },
+            {
+              "id": "22",
+              "variantSetName": {
+                "en": "Size",
+                "ar": "الحجم"
+              },
+              "selection": {
+                "en": "Medium",
+                "ar": "متوسط"
+              }
+            }
+          ]
+        },
+        {
+          "productId": "6",
+          "name": {
+            "en": "Mens Sneakers Shoes",
+            "ar": "حذاء رجالي سنيكر"
+          },
+          "quantity": 3,
+          "totalPrice": 24.0,
+          "thumbnail": "https://ae04.alicdn.com/kf/H2948b01a16a549c6afd01e65bdf7d4224.jpg_480x480.jpg_Q90.jpg_.webp",
+          "selectedCombination": [
+            {
+              "id": "12",
+              "variantSetName": {
+                "en": "Color",
+                "ar": "اللون"
+              },
+              "selection": {
+                "en": "Black",
+                "ar": "أسود"
+              }
+            },
+            {
+              "id": "23",
+              "variantSetName": {
+                "en": "Size",
+                "ar": "الحجم"
+              },
+              "selection": {
+                "en": "41",
+                "ar": "41"
+              }
+            }
+          ]
+        },
+        {
+          "productId": "1",
+          "name": {
+            "en": "Women skirt",
+            "ar": "تنورة نسائية"
+          },
+          "quantity": 1,
+          "totalPrice": 14.6,
+          "thumbnail": "https://ae04.alicdn.com/kf/H70b61688871a40f0869258a166ac72edk.jpg_480x480.jpg_Q90.jpg_.webp",
+          "selectedCombination": [
+            {
+              "id": "14",
+              "variantSetName": {
+                "en": "Color",
+                "ar": "اللون"
+              },
+              "selection": {
+                "en": "Red",
+                "ar": "أحمر"
+              }
+            },
+            {
+              "id": "22",
+              "variantSetName": {
+                "en": "Size",
+                "ar": "الحجم"
+              },
+              "selection": {
+                "en": "Medium",
+                "ar": "متوسط"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000000002",
+      "date": 1486252500000,
+      "total": 124.3,
+      "status": "shipped"
+    },
+    {
+      "id": "00000000003",
+      "date": 1486252500000,
+      "total": 78.9,
+      "status": "canceled"
+    },
+    {
+      "id": "00000000004",
+      "date": 1486252500000,
+      "total": 12.3,
+      "status": "received"
+    }
+  ],
+  "slides": [
+    {
+      "id": "1",
+      "image": "https://ae01.alicdn.com/kf/H637101280fe5475ab2357be2b1459da8L.jpg_Q90.jpg_.webp",
+      "actionUrl": ""
+    },
+    {
+      "id": "2",
+      "image": "https://ae01.alicdn.com/kf/Hcf72abb88b014af68f2f3e401443c6535.jpg_Q90.jpg_.webp",
+      "actionUrl": ""
+    },
+    {
+      "id": "3",
+      "image": "https://ae01.alicdn.com/kf/H38744119736b42dd97304ee1c93c9935p.jpg_Q90.jpg_.webp",
+      "actionUrl": ""
+    },
+    {
+      "id": "4",
+      "image": "https://ae01.alicdn.com/kf/H327398b4dbaf4d7bbe0f8a44677f2e055.jpg_Q90.jpg_.webp",
+      "actionUrl": ""
+    }
+  ],
+  "home": [
+    {
+      "category": {
+        "id": "1",
+        "name": {
+          "en": "Clothes",
+          "ar": "الألبسة"
+        },
+        "image": "https://media.istockphoto.com/photos/fashion-clothes-on-a-rack-in-a-light-background-indoors-place-for-picture-id1257563298?b=1&k=20&m=1257563298&s=170667a&w=0&h=Hhf0-AsQp7Z7k9q8XKHfQUY86uPJvE8vmmGHXihWS_M="
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": {
+            "en": "Polo T-Shirt",
+            "ar": "تيشيرت بولو"
+          },
+          "price": 11.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "2",
+          "name": {
+            "en": "Chiffon Pantsuits",
+            "ar": "بنطلون شيفون"
+          },
+          "price": 21.3,
+          "reducedPrice": 19.0,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/He592143db0ae4a6f889806ba97bce9ffU.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "3",
+          "name": {
+            "en": "2PCS Pajama Short Sleeve Printed",
+            "ar": "بجامة مع تيشرت"
+          },
+          "price": 41.0,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae04.alicdn.com/kf/H7212f9022c1c455f96f8428935d014dcf.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "4",
+          "name": {
+            "en": "Short sleeved trousers pajamas sets",
+            "ar": "سيت بجامة رجالي"
+          },
+          "price": 21.9,
+          "reducedPrice": null,
+          "rating": 1.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/HTB1FGHJtxuTBuNkHFNRq6A9qpXaT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "5",
+          "name": {
+            "en": "Men Leather Trench Coat Casaco",
+            "ar": "قمصلة رجالية جلد"
+          },
+          "price": 23.3,
+          "reducedPrice": 22.5,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hcd991ce204264f3fbf1c5062d7944edcT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "6",
+          "name": {
+            "en": "Mens Sneakers Shoes",
+            "ar": "حذاء رجالي سنيكر"
+          },
+          "price": 54.3,
+          "reducedPrice": 42.4,
+          "rating": 2.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H2948b01a16a549c6afd01e65bdf7d4224.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "7",
+          "name": {
+            "en": "Vintage Pants Suits For Women",
+            "ar": "بدلة نسائية"
+          },
+          "price": 56.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hafe95cb353c14981837a201035e6cedeG.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "8",
+          "name": {
+            "en": "Chinese Long Dress For Women",
+            "ar": "بدلة نسائية صينية"
+          },
+          "price": 52.3,
+          "reducedPrice": null,
+          "rating": 4.0,
+          "thumbnail": "https://ae04.alicdn.com/kf/H4b9d2bff3fc74de4a2a37c95d4c2a2b6j.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "9",
+          "name": {
+            "en": "Women dress",
+            "ar": "ثوب نسائي"
+          },
+          "price": 44.3,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae01.alicdn.com/kf/H880fd07b8ddd4207a02e09130ae3da160.jpg_140x140Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "10",
+          "name": {
+            "en": "Women skirt",
+            "ar": "تنورة نسائية"
+          },
+          "price": 51.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H70b61688871a40f0869258a166ac72edk.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": {
+          "en": "Home & Kitchen",
+          "ar": "البيت والمطبخ"
+        },
+        "image": "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGlhbmNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": {
+            "en": "Polo T-Shirt",
+            "ar": "تيشيرت بولو"
+          },
+          "price": 11.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "2",
+          "name": {
+            "en": "Chiffon Pantsuits",
+            "ar": "بنطلون شيفون"
+          },
+          "price": 21.3,
+          "reducedPrice": 19.0,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/He592143db0ae4a6f889806ba97bce9ffU.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "3",
+          "name": {
+            "en": "2PCS Pajama Short Sleeve Printed",
+            "ar": "بجامة مع تيشرت"
+          },
+          "price": 41.0,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae04.alicdn.com/kf/H7212f9022c1c455f96f8428935d014dcf.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "4",
+          "name": {
+            "en": "Short sleeved trousers pajamas sets",
+            "ar": "سيت بجامة رجالي"
+          },
+          "price": 21.9,
+          "reducedPrice": null,
+          "rating": 1.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/HTB1FGHJtxuTBuNkHFNRq6A9qpXaT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "5",
+          "name": {
+            "en": "Men Leather Trench Coat Casaco",
+            "ar": "قمصلة رجالية جلد"
+          },
+          "price": 23.3,
+          "reducedPrice": 22.5,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hcd991ce204264f3fbf1c5062d7944edcT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "6",
+          "name": {
+            "en": "Mens Sneakers Shoes",
+            "ar": "حذاء رجالي سنيكر"
+          },
+          "price": 54.3,
+          "reducedPrice": 42.4,
+          "rating": 2.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H2948b01a16a549c6afd01e65bdf7d4224.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "7",
+          "name": {
+            "en": "Vintage Pants Suits For Women",
+            "ar": "بدلة نسائية"
+          },
+          "price": 56.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hafe95cb353c14981837a201035e6cedeG.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "8",
+          "name": {
+            "en": "Chinese Long Dress For Women",
+            "ar": "بدلة نسائية صينية"
+          },
+          "price": 52.3,
+          "reducedPrice": null,
+          "rating": 4.0,
+          "thumbnail": "https://ae04.alicdn.com/kf/H4b9d2bff3fc74de4a2a37c95d4c2a2b6j.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "9",
+          "name": {
+            "en": "Women dress",
+            "ar": "ثوب نسائي"
+          },
+          "price": 44.3,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae01.alicdn.com/kf/H880fd07b8ddd4207a02e09130ae3da160.jpg_140x140Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "10",
+          "name": {
+            "en": "Women skirt",
+            "ar": "تنورة نسائية"
+          },
+          "price": 51.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H70b61688871a40f0869258a166ac72edk.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "3",
+        "name": {
+          "en": "Food",
+          "ar": "المواد الغذائية"
+        },
+        "image": "https://images.unsplash.com/photo-1506617420156-8e4536971650?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFpcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": {
+            "en": "Polo T-Shirt",
+            "ar": "تيشيرت بولو"
+          },
+          "price": 11.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "2",
+          "name": {
+            "en": "Chiffon Pantsuits",
+            "ar": "بنطلون شيفون"
+          },
+          "price": 21.3,
+          "reducedPrice": 19.0,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/He592143db0ae4a6f889806ba97bce9ffU.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "3",
+          "name": {
+            "en": "2PCS Pajama Short Sleeve Printed",
+            "ar": "بجامة مع تيشرت"
+          },
+          "price": 41.0,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae04.alicdn.com/kf/H7212f9022c1c455f96f8428935d014dcf.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "4",
+          "name": {
+            "en": "Short sleeved trousers pajamas sets",
+            "ar": "سيت بجامة رجالي"
+          },
+          "price": 21.9,
+          "reducedPrice": null,
+          "rating": 1.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/HTB1FGHJtxuTBuNkHFNRq6A9qpXaT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "5",
+          "name": {
+            "en": "Men Leather Trench Coat Casaco",
+            "ar": "قمصلة رجالية جلد"
+          },
+          "price": 23.3,
+          "reducedPrice": 22.5,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hcd991ce204264f3fbf1c5062d7944edcT.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "6",
+          "name": {
+            "en": "Mens Sneakers Shoes",
+            "ar": "حذاء رجالي سنيكر"
+          },
+          "price": 54.3,
+          "reducedPrice": 42.4,
+          "rating": 2.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H2948b01a16a549c6afd01e65bdf7d4224.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "7",
+          "name": {
+            "en": "Vintage Pants Suits For Women",
+            "ar": "بدلة نسائية"
+          },
+          "price": 56.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/Hafe95cb353c14981837a201035e6cedeG.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "8",
+          "name": {
+            "en": "Chinese Long Dress For Women",
+            "ar": "بدلة نسائية صينية"
+          },
+          "price": 52.3,
+          "reducedPrice": null,
+          "rating": 4.0,
+          "thumbnail": "https://ae04.alicdn.com/kf/H4b9d2bff3fc74de4a2a37c95d4c2a2b6j.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        },
+        {
+          "id": "9",
+          "name": {
+            "en": "Women dress",
+            "ar": "ثوب نسائي"
+          },
+          "price": 44.3,
+          "reducedPrice": null,
+          "rating": null,
+          "thumbnail": "https://ae01.alicdn.com/kf/H880fd07b8ddd4207a02e09130ae3da160.jpg_140x140Q90.jpg_.webp",
+          "isFavorite": true
+        },
+        {
+          "id": "10",
+          "name": {
+            "en": "Women skirt",
+            "ar": "تنورة نسائية"
+          },
+          "price": 51.3,
+          "reducedPrice": null,
+          "rating": 4.5,
+          "thumbnail": "https://ae04.alicdn.com/kf/H70b61688871a40f0869258a166ac72edk.jpg_480x480.jpg_Q90.jpg_.webp",
+          "isFavorite": false
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": {
+        "en": "Clothes",
+        "ar": "الألبسة"
+      },
+      "image": "",
+      "subCats": [
+        {
+          "id": "11",
+          "name": {
+            "en": "Men Clothes",
+            "ar": "الألبسة الرجالية"
+          },
+          "subCats": [
+            {
+              "id": "111",
+              "name": {
+                "en": "Tops",
+                "ar": "القمصان والبلوزات"
+              }
+            },
+            {
+              "id": "121",
+              "name": {
+                "en": "Bottoms",
+                "ar": "البناطيل"
+              }
+            },
+            {
+              "id": "123",
+              "name": {
+                "en": "Shoes",
+                "ar": "الأحذية"
+              }
+            },
+            {
+              "id": "124",
+              "name": {
+                "en": "Accessories",
+                "ar": "الاكسسوارات"
+              }
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "name": {
+            "en": "Women Clothes",
+            "ar": "الألبسةالنسائية"
+          },
+          "subCats": [
+            {
+              "id": "121",
+              "name": {
+                "en": "Tops",
+                "ar": "القمصان والبلوزات"
+              }
+            },
+            {
+              "id": "122",
+              "name": {
+                "en": "Bottoms",
+                "ar": "البناطيل والتنانير"
+              }
+            },
+            {
+              "id": "123",
+              "name": {
+                "en": "Shoes",
+                "ar": "الأحذية"
+              }
+            },
+            {
+              "id": "124",
+              "name": {
+                "en": "Accessories",
+                "ar": "الاكسسوارات"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": {
+        "en": "Home & Kitchen",
+        "ar": "البيت والمطبخ"
+      },
+      "image": "",
+      "subCats": [
+        {
+          "id": "21",
+          "name": {
+            "en": "Home Appliances",
+            "ar": "الأجهزة المنزلية"
+          },
+          "subCats": [
+            {
+              "id": "211",
+              "name": {
+                "en": "Living Room",
+                "ar": "غرفة المعيشة"
+              }
+            },
+            {
+              "id": "221",
+              "name": {
+                "en": "Kitchen",
+                "ar": "المطبخ"
+              }
+            },
+            {
+              "id": "223",
+              "name": {
+                "en": "Cleaning",
+                "ar": "التنظيف"
+              }
+            },
+            {
+              "id": "224",
+              "name": {
+                "en": "Utilities",
+                "ar": "الأدوات المساعدة"
+              }
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "name": {
+            "en": "Home Accessories",
+            "ar": "اكسسوارات البيت"
+          },
+          "subCats": [
+            {
+              "id": "221",
+              "name": {
+                "en": "Door Mats",
+                "ar": "الدواسات"
+              }
+            },
+            {
+              "id": "222",
+              "name": {
+                "en": "Clocks",
+                "ar": "الساعات"
+              }
+            },
+            {
+              "id": "223",
+              "name": {
+                "en": "Mirrors",
+                "ar": "المرايا"
+              }
+            },
+            {
+              "id": "224",
+              "name": {
+                "en": "Decor",
+                "ar": "الديكور"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "productId": "1",
+      "name":  {
+        "en": "Polo T-Shirt",
+        "ar": "تيشيرت بولو"
+      },
+      "quantity": 2,
+      "totalPrice": 14.6,
+      "thumbnail": "https://ae01.alicdn.com/kf/Sa18b56a52348416e9fd310a7eb4532d7K/Trendyol-Male-Colar-Jacquard-Polo-Collar-T-Shirt-TMNSS20PO0009-Men-S-Clothing-Fashion-2021-Summer-Spring.jpg_220x220xz.jpg_.webp",
+      "selectedCombination": [
+        {
+          "id": "13",
+          "variantSetName": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "selection": {
+            "en": "Red",
+            "ar": "أحمر"
+          }
+        },
+        {
+          "id": "22",
+          "variantSetName": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "selection": {
+            "en": "Medium",
+            "ar": "متوسط"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "name": {
+        "en": "Chiffon Pantsuits",
+        "ar": "بنطلون شيفون"
+      },
+      "quantity": 3,
+      "totalPrice": 24.0,
+      "thumbnail": "https://ae04.alicdn.com/kf/He592143db0ae4a6f889806ba97bce9ffU.jpg_480x480.jpg_Q90.jpg_.webp",
+      "selectedCombination": [
+        {
+          "id": "12",
+          "variantSetName": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "selection": {
+            "en": "Black",
+            "ar": "أسود"
+          }
+        },
+        {
+          "id": "23",
+          "variantSetName": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "selection": {
+            "en": "Large",
+            "ar": "كبير"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "productId": "7",
+      "name": {
+        "en": "Vintage Pants Suits For Women",
+        "ar": "بدلة نسائية"
+      },
+      "quantity": 1,
+      "totalPrice": 14.6,
+      "thumbnail": "https://ae04.alicdn.com/kf/Hafe95cb353c14981837a201035e6cedeG.jpg_480x480.jpg_Q90.jpg_.webp",
+      "selectedCombination": [
+        {
+          "id": "11",
+          "variantSetName": {
+            "en": "Color",
+            "ar": "اللون"
+          },
+          "selection": {
+            "en": "White",
+            "ar": "أبيض"
+          }
+        },
+        {
+          "id": "24",
+          "variantSetName": {
+            "en": "Size",
+            "ar": "الحجم"
+          },
+          "selection": {
+            "en": "X-Large",
+            "ar": "كبير جدا"
+          }
+        }
+      ]
+    }
+  ],
+  "addresses": [
+    {
+      "id": "1",
+      "isFavorite": true,
+      "lineOne": "Al Karamah St.",
+      "lineTwo": "Near Senono Rest.",
+      "city": "Najaf",
+      "state": "Najaf",
+      "country": "Iraq",
+      "zipCode": "54001",
+      "phoneNo": "+9647701112222"
+    },
+    {
+      "id": "2",
+      "isFavorite": false,
+      "lineOne": "Al Mansour St.",
+      "lineTwo": "Al Mansour",
+      "city": "Baghdad",
+      "state": "Baghdad",
+      "country": "Iraq",
+      "zipCode": "51006",
+      "phoneNo": "+9647701113535"
     }
   ]
 }

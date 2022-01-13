@@ -10,7 +10,11 @@
       "id": "2",
       "name": " سراويل أنيقة غير رسمية",
       "description": "ارتفاع الخصر Drooping دعوى السراويل للنساء كول Boyfriend السراويل 2021 الخريف سراويل أنيقة غير رسمية مستقيم واسعة الساق بنطلون",
-      "categoryIds": ["cat1", "cat12", "cat122"],
+      "categoryIds": [
+        "cat1",
+        "cat12",
+        "cat122"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -86,7 +90,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -143,7 +147,9 @@
       "id": "37",
       "name": "بايارا لوز جمبو، 400 غرام",
       "description": "\n    يحتوي اللوز على كمية هائلة من المواد المغذية.\n    اللوز غنيّ بمضادات الأكسدة.\n    اللوز غنيّ بفيتامين اي.\n",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -161,7 +167,11 @@
       "id": "3",
       "name": "بلوزة بيضاء غير رسمية",
       "description": "بلوزة بيضاء غير رسمية فضفاضة على الطراز الكوري بلوزة حريرية جديدة عتيقة للسيدات 2021 قميص خريفي بأكمام طويلة بلوزة أنيقة للسيدات",
-      "categoryIds": ["cat1", "cat12", "cat121"],
+      "categoryIds": [
+        "cat1",
+        "cat12",
+        "cat121"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -237,7 +247,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -294,7 +304,11 @@
       "id": "1",
       "name": "تيشيرت بولو",
       "description": "تريندول تيشرت بولو رجالي ذو ياخة وملمس حريري، أفضل الملابس الرجالية صيف ربيع ٢٠٢١",
-      "categoryIds": ["cat1", "cat11", "cat111"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat111"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -370,7 +384,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -427,7 +441,11 @@
       "id": "5",
       "name": "حزام جلد طبيعي",
       "description": "حزام الذكور الرجال حزام جلد طبيعي حزام العلامة التجارية الفاخرة التلقائي مشبك الأحزمة للرجال أحزمة",
-      "categoryIds": ["cat1", "cat11", "cat114"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat114"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -503,7 +521,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -560,7 +578,11 @@
       "id": "10",
       "name": "فستان أنيق جديد",
       "description": "فستان أنيق جديد لخريف 2021 للنساء سادة بأكمام طويلة فستان حفلات خرافية مثير ورقبة على شكل v فستان ميدي فضفاض للسيدات",
-      "categoryIds": ["cat1", "cat12", "cat121"],
+      "categoryIds": [
+        "cat1",
+        "cat12",
+        "cat121"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -636,7 +658,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -693,7 +715,11 @@
       "id": "7",
       "name": "رابطة عنق منسوجة على طريقة التريكو",
       "description": "جديد موضة رجالية رابطة عنق منسوجة على طريقة التريكو طباعة الأزهار زهرة نحيل ضيق ضيق متماسكة الرقبة الدافئة للرجال المنسوجة مصمم ارتداء اليومي",
-      "categoryIds": ["cat1", "cat11", "cat124"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat124"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -741,7 +767,7 @@
           "ids": [
             "12"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -771,7 +797,11 @@
       "id": "8",
       "name": "سراويل رياضية",
       "description": "الرجال الصيف سراويل تقليدية سراويل رياضية السراويل الرياضية التجفيف السريع تنفس الجليد الحرير السراويل مستقيم السراويل قسم رقيقة Hot البيع",
-      "categoryIds": ["cat1", "cat11", "cat112"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat112"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -847,7 +877,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -904,7 +934,11 @@
       "id": "20",
       "name": "آلة طحن اللحوم 2 في 1 ",
       "description": "آلة طحن اللحوم 2 في 1 ، حاقن التتبيلة ، الشواء ، توابل ، صلصة ، أدوات المطبخ ، أدوات الشواء ، ملحقات الطبخ",
-      "categoryIds": ["cat2", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat221"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -923,7 +957,9 @@
       "id": "38",
       "name": "نيستلى تشيريوس بالعسل وتحضير الإفطار ، 430 جرام",
       "description": "\n    نوع الحبوب: حبوب الإفطار\n    شكل الحبوب: جاف\n    تغليف الحبوب: صندوق\n",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -942,7 +978,11 @@
       "id": "21",
       "name": "صحن الصابون للحمام",
       "description": "1 قطعة شفط كأس صحن الصابون للحمام دش المحمولة ورقة حامل الصابون البلاستيك الإسفنج صينية للمطبخ اكسسوارات الحمام",
-      "categoryIds": ["cat2", "cat22", "cat222"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat222"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -980,7 +1020,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -996,7 +1036,11 @@
       "id": "6",
       "name": "قبعة عسكرية",
       "description": "أربعة مواسم الكلاسيكية Top الرجال شقة قبعة غسلها قبعة قابل للتعديل الشتاء الدافئة القطن بلون الشمس حماية قبعة عسكرية",
-      "categoryIds": ["cat1", "cat11", "cat114"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat114"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1044,7 +1088,7 @@
           "ids": [
             "12"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1074,7 +1118,14 @@
       "id": "22",
       "name": "موزع مياه USB شحن",
       "description": "زجاجة مضخة التلقائي موزع مياه USB شحن موزع مياه مضخة واحدة انقر السيارات التبديل الشرب موزع الأدوات المنزلية",
-      "categoryIds": ["cat2", "cat21", "cat212", "cat214", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat21",
+        "cat212",
+        "cat214",
+        "cat22",
+        "cat221"
+      ],
       "price": 8.88,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1128,7 +1179,11 @@
       "id": "9",
       "name": "بنطلون منقوش مطبوع",
       "description": "الرجال بانت منقوشة مطبوعة المألوف الرجال كامل طول بنطلون لقضاء وقت الفراغ بنطلون ذكر عادية نحيل سروال شكل قلم رصاص الشارع الشهير",
-      "categoryIds": ["cat1", "cat11", "cat112"],
+      "categoryIds": [
+        "cat1",
+        "cat11",
+        "cat112"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1204,7 +1259,7 @@
             "12",
             "23"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1261,7 +1316,11 @@
       "id": "23",
       "name": " كليب مكافحة السمط",
       "description": "عالية الجودة 1 قطعة المطبخ الخبز هلام السيليكا العزل الحراري كليب مكافحة السمط عدم الانزلاق قفازات المنزلية وعاء فرن الميكروويف",
-      "categoryIds": ["cat2", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat221"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1339,7 +1398,11 @@
       "id": "4",
       "name": "نظارة شمسية عين القط",
       "description": "Beautyeye-نظارة شمسية عين القط للأطفال ، عدسات UV400 ، لطيفة ، للأطفال ، 2018",
-      "categoryIds": ["cat1", "cat12", "cat124"],
+      "categoryIds": [
+        "cat1",
+        "cat12",
+        "cat124"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1387,7 +1450,7 @@
           "ids": [
             "12"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1417,7 +1480,11 @@
       "id": "25",
       "name": "طقم إكسسوارات حمام أوروبي",
       "description": "طقم إكسسوارات حمام أوروبي من النحاس الكروم ، طقم من 4 قطع ، قضيب منشفة ، حامل ورق ، خطاف ملابس معدني",
-      "categoryIds": ["cat2", "cat22", "cat222"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat222"
+      ],
       "price": 41.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1455,7 +1522,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1471,7 +1538,9 @@
       "id": "35",
       "name": "نوتيلا وزن 400 غرام",
       "description": "تم اختيار المكونات فقط من المواد الخام الطازجة، ويتم الاختيار وفقاً لمصادر مستدامة مع إيلاء اهتمام كبير لجودتها",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1490,7 +1559,11 @@
       "id": "26",
       "name": "قطعة سيليكون طوي قمع",
       "description": " قطعة سيليكون طوي قمع العملي للطي قمع المياه السائل الاستغناء النفط النبيذ ملء التعبئة مقاومة للحرارة النفط",
-      "categoryIds": ["cat2", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat221"
+      ],
       "price": 3.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1533,7 +1606,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1556,7 +1629,11 @@
       "id": "27",
       "name": "حامل عصي الأسنان المحمولة",
       "description": " قطعة الإبداعية التلقائي المنبثقة حامل عصي الأسنان المحمولة حامل عصي الأسنان الحاويات مطعم المنزل الجدول مسواك صندوق تخزين",
-      "categoryIds": ["cat2", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat221"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1604,7 +1681,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1634,7 +1711,9 @@
       "id": "32",
       "name": "زيت عباد الشمس نور - 5 لتر",
       "description": "\n    زيت عباد شمس 100% نقي\n    خفيف على الجسم والقلب والمعدة\n    خالي من الكوليسترول\n    غني بفيتامين ايه ودي واي\n",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1653,9 +1732,13 @@
       "id": "24",
       "name": "مصباح سقف led حديث",
       "description": "مصباح سقف led حديث مطلي بالكروم/الذهب ، تصميم جديد ، إضاءة داخلية ، إضاءة سقف زخرفية ، مثالية لغرفة الطعام أو المطبخ ، 90-260 فولت.",
-      "categoryIds": ["cat2", "cat21", "cat211"],
+      "categoryIds": [
+        "cat2",
+        "cat21",
+        "cat211"
+      ],
       "price": 111.3,
-      "reducedPrice": 100.0,
+      "reducedPrice": 100,
       "rating": 3.5,
       "totalOrders": 183,
       "thumbnail": "https://ae01.alicdn.com/kf/Hf7bd8cd39fe047a690383aa2d00878eeF/NEW-Chrome-Gold-Plated-Modern-led-Chandelier-for-dining-room-kitchen-Room-Led-chandelier-90-260V.jpg_220x220xz.jpg_.webp",
@@ -1691,7 +1774,7 @@
           "ids": [
             "11"
           ],
-          "price": 118.0,
+          "price": 118,
           "maxOrderQuantity": 34
         },
         {
@@ -1707,7 +1790,13 @@
       "id": "29",
       "name": "سدادة حرارية البلاستيك",
       "description": "المحمولة حقيبة سدادة حرارية البلاستيك حزمة حقيبة التخزين كليب آلة ختم صغيرة مفيد ملصقا ختم للأغذية وجبة خفيفة أدوات المطبخ",
-      "categoryIds": ["cat2", "cat21", "cat212", "cat22", "cat221"],
+      "categoryIds": [
+        "cat2",
+        "cat21",
+        "cat212",
+        "cat22",
+        "cat221"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1745,7 +1834,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1761,7 +1850,9 @@
       "id": "30",
       "name": "كازو بلانترز",
       "description": "كازو بلانترز ٥١٧غم",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 4.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1780,7 +1871,11 @@
       "id": "28",
       "name": "حصيرة عدم الانزلاق الحمام",
       "description": "قطعة 40x60 سنتيمتر المنزل حمام حصيرة عدم الانزلاق الحمام السجاد لينة المرجان الصوف البساط حصيرة المطبخ أرضية الحمام ديكور",
-      "categoryIds": ["cat2", "cat22", "cat222"],
+      "categoryIds": [
+        "cat2",
+        "cat22",
+        "cat222"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1818,7 +1913,7 @@
           "ids": [
             "11"
           ],
-          "price": 8.0,
+          "price": 8,
           "maxOrderQuantity": 34
         },
         {
@@ -1834,7 +1929,9 @@
       "id": "31",
       "name": "كواكر شوفان سريع التحظير",
       "description": "كواكر شوفان سريع التحظير ٤ أطعام ٤٨ كيس",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1853,7 +1950,9 @@
       "id": "33",
       "name": "زيت جوز الهند العضوي",
       "description": "زيت جوز الهند العضوي بكر من داون تو ايرث اورجانيك للبشرة والشعر والجسم، زيت عضوي بنسبة 100% معصور على البارد، الافضل لحمية الكيتو والباليو - 500 مل ",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1871,7 +1970,9 @@
       "id": "34",
       "name": "بسكويت اوريو اوريجينال",
       "description": "بسكويت اوريو اوريجينال بالحليب المفضل، 38 غرام (عبوة من 16 قطعة)",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1888,7 +1989,9 @@
       "id": "36",
       "name": "ارز بسمتي هندي من شهرزاد 5 كغم",
       "description": "ارز بسمتي هندي من شهرزاد 5 كغم \n    خالي من الدهون بنسبة 99%\n    خالٍ من الغلوتين\n    خالي من الكوليسترول والملح\n",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1906,7 +2009,9 @@
       "id": "39",
       "name": "نيسك نستلة رقائق الإفطار بالشيكولاتة 375 جرام",
       "description": " \n    مصنوع من: الحبوب الكاملة والفيتامينات والمعادن والحديد والكالسيوم\n    قد تحتوي على آثار اللوز والفول السوداني والمكسرات الأخرى.\n    الفيتامينات والمعادن: النياسين، حمض البانتوثينيك، فيتامين ب6، ريبوفلافين (B2)، ثنائي أمين (B1)، حمض الفوليك (فولاك)، فيتامين D، كربونات الكالسيوم، حديد.\nنيسك نستلة رقائق الإفطار بالشيكولاتة 375 جرام (مجموعة من 2) - عبوة العرض",
-      "categoryIds": ["cat3"],
+      "categoryIds": [
+        "cat3"
+      ],
       "price": 11.3,
       "reducedPrice": null,
       "rating": 4.5,
@@ -1926,11 +2031,12 @@
     {
       "id": "00000000001",
       "date": 1486252500000,
-      "total": 154.0,
+      "total": 154,
       "status": "confirmed",
       "items": [
         {
           "id": "1",
+          "productId": "1",
           "name": "تيشيرت بولو",
           "quantity": 2,
           "totalPrice": 14.6,
@@ -1938,33 +2044,22 @@
           "selectedCombination": [
             {
               "id": "13",
-              "variantSetName": {
-                "en": "Color",
-                "ar": "اللون"
-              },
-              "selection": {
-                "en": "White",
-                "ar": "أبيض"
-              }
+              "variantSetName": "اللون",
+              "selection": "أبيض"
             },
             {
               "id": "22",
-              "variantSetName": {
-                "en": "Size",
-                "ar": "الحجم"
-              },
-              "selection": {
-                "en": "Medium",
-                "ar": "متوسط"
-              }
+              "variantSetName": "الحجم",
+              "selection": "متوسط"
             }
           ]
         },
         {
-          "id": "6",
+          "id": "2",
+          "productId": "6",
           "name": "قبعة عسكرية",
           "quantity": 3,
-          "totalPrice": 24.0,
+          "totalPrice": 24,
           "thumbnail": "https://ae01.alicdn.com/kf/H0df9fc45d4464d0b9e04ba50a42ab01bc/Four-Seasons-Classic-Vintage-Flat-Top-Men-Washed-Cap-Adjustable-Cap-Winter-Warm-Cotton-Solid-Color.jpg_220x220xz.jpg_.webp",
           "selectedCombination": [
             {
@@ -1975,7 +2070,8 @@
           ]
         },
         {
-          "id": "7",
+          "id": "3",
+          "productId": "7",
           "name": "رابطة عنق منسوجة على طريقة التريكو",
           "quantity": 1,
           "totalPrice": 14.6,
@@ -2118,7 +2214,7 @@
         "id": "24",
         "name": "مصباح سقف led حديث",
         "price": 111.3,
-        "reducedPrice": 100.0,
+        "reducedPrice": 100,
         "rating": 3.5,
         "thumbnail": "https://ae01.alicdn.com/kf/Hf7bd8cd39fe047a690383aa2d00878eeF/NEW-Chrome-Gold-Plated-Modern-led-Chandelier-for-dining-room-kitchen-Room-Led-chandelier-90-260V.jpg_220x220xz.jpg_.webp",
         "isFavorite": false
@@ -2271,7 +2367,7 @@
             "id": "24",
             "name": "مصباح سقف led حديث",
             "price": 111.3,
-            "reducedPrice": 100.0,
+            "reducedPrice": 100,
             "rating": 3.5,
             "thumbnail": "https://ae01.alicdn.com/kf/Hf7bd8cd39fe047a690383aa2d00878eeF/NEW-Chrome-Gold-Plated-Modern-led-Chandelier-for-dining-room-kitchen-Room-Led-chandelier-90-260V.jpg_220x220xz.jpg_.webp",
             "isFavorite": false
@@ -2560,7 +2656,7 @@
       "productId": "3",
       "name": "بلوزة بيضاء غير رسمية",
       "quantity": 3,
-      "totalPrice": 24.0,
+      "totalPrice": 24,
       "thumbnail": "https://ae01.alicdn.com/kf/H470c08a1851949048382ba20cd5c7a6aW/Korean-Style-Loose-Casual-White-Tops-Vintage-New-Silk-Blouse-Women-2021-Autumn-Long-Sleeve-Shirt.jpg_220x220q90.jpg_.webp",
       "selectedCombination": [
         {
@@ -2606,6 +2702,17 @@
       "country": "العراق",
       "zipCode": "",
       "phoneNo": "+9647701113535"
+    },
+    {
+      "id": "kZ6sF0l",
+      "isFavorite": false,
+      "lineOne": ";alkdf",
+      "lineTwo": "sdf",
+      "city": "sdf",
+      "state": "sdf",
+      "country": "asdf",
+      "zipCode": "sdf",
+      "phoneNo": "sdf"
     }
   ]
 }

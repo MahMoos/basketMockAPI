@@ -37,22 +37,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -194,22 +194,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -331,22 +331,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -468,22 +468,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -605,22 +605,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -742,22 +742,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -824,22 +824,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -1005,7 +1005,7 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
@@ -1063,22 +1063,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -1148,12 +1148,12 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             }
           ]
         }
@@ -1206,22 +1206,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         },
@@ -1353,12 +1353,12 @@
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -1425,22 +1425,22 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
               "name": "أسود",
-              "label": "0xFF000000"
+              "label": "#000000"
             },
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -1591,12 +1591,12 @@
             {
               "id": "12",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "13",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -1666,12 +1666,12 @@
             {
               "id": "13",
               "name": "أحمر",
-              "label": "FFCC0000"
+              "label": "#CC0000"
             },
             {
               "id": "14",
               "name": "أزرق",
-              "label": "2986cc"
+              "label": "#2986cc"
             }
           ]
         }
@@ -1819,7 +1819,7 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
@@ -1898,7 +1898,7 @@
             {
               "id": "11",
               "name": "أبيض",
-              "label": "#FFFFFFFF"
+              "label": "#FFFFFF"
             },
             {
               "id": "12",
